@@ -1,0 +1,27 @@
+/* Estilos Globais */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.limitar-secao{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+/* Topo da página */
+.container-topo{
+    position: relative;
+    padding: 35px 0;
+}
+.topo-logo{
+    position: relative;
+}
+/* Banner da página */
+/* Seção Primeiro Anúncio */
+/* Seção Informações */
+/* Seção Planos */
+/* Seção Segundo Anúncio */
+/* Rodapé */
